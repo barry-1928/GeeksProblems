@@ -1,0 +1,3 @@
+Independent on n
+Second half is exact complement of First half
+Ans: (number of set bits in k)%2
