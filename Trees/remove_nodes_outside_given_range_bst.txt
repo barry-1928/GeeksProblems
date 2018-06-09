@@ -1,0 +1,5 @@
+1. Rectify the left subtree
+2. Rectify the right subtree
+3. i)If the root's data is less than min value of range, delete the root and return its right child as root(it would be in range as its right child is already rectified)
+   ii)Else If the root's data is greater than max value of range, delete the root and return its left child as root(it would be in range as its right child are already rectified)
+   iii)Else return root
